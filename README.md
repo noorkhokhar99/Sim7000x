@@ -3,17 +3,9 @@ sim7000x
 
 # Make a PPP internet connection with sim7000x on Raspberry Pi
 
-# test
-
-
-### Prueba 2
 
 ## Start 4G module on your sim7000 board
 The 4G module on sim7000 needs a wake-up signal from the Rpi.
-
-
-You need to send a High level for 2 seconds over GPIO 22 to wake-up or sleep the module.
-
 
 
 1. This script can be added later on /etc/rc.local to auto wake-up at boot.
