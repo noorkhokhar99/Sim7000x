@@ -1,7 +1,7 @@
 # Sim7000x
 sim7000x
 
-# Make a PPP internet connection with LORANGA on Raspberry Pi
+# Make a PPP internet connection with sim7000x on Raspberry Pi
 
 # test
 
